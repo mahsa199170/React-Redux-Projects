@@ -15,6 +15,7 @@ const movieSlice = createSlice({
   name: 'movies',
   initialState,
   reducers: {
+    //for clean up function insid ethe useEffect in movieDetails file
     REMOVE_SELECTED_MOVIE_OR_SHOW: (state) => {
       state.movieOrShow = {};
     },
