@@ -1,5 +1,5 @@
 
-# 🧰 React-Redux-Projects Projects Repository
+# 🧰 React-Redux-Projects Repository
 
 This repository contains multiple React-based applications built with Redux Toolkit. Each project is organized in its own folder.
 
